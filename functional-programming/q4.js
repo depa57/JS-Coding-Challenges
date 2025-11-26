@@ -7,4 +7,5 @@ const users = [
 function findById(arr, id) {
   return arr.find(x => x.id === id);
 }
+
 console.log(findById(users, 2));
