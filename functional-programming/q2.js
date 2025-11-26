@@ -7,4 +7,5 @@ const user = [
     {name:"A", age:15}, 
     {name:"B", age:25}
 ];
+
 console.log(filterAdults(user));
