@@ -7,4 +7,4 @@ function arrayEditor(arr)
     return arr;
 }
 
-console.log(arrayEditor([2,4,5]));
+console.log(arrayEditor([2,4,5,6]));
