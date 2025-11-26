@@ -6,5 +6,4 @@ function arrayEditor(arr)
     arr.splice(1,1)
     return arr;
 }
-
 console.log(arrayEditor([2,4,5]));
