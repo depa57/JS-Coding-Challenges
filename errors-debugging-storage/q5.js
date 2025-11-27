@@ -4,4 +4,5 @@ function setCookieToken() {
   document.cookie = `token=abc123; 
   expires=${d.toUTCString()};`;
 }
+
 setCookieToken();
